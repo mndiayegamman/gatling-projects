@@ -1,0 +1,2 @@
+eventType=page&nonce=6F06C0A65AFC76EB&href=https%3A%2F%2Fcloud-preprod.conforama.fr%2Fcanape-salon-sejour%2Fcanape%2Fcanape-cuir%2Fc%2F020114&title=Canap%C3%A9%20cuir%20pas%20cher%20-%20Conforama&keyPagesIndices=%5Bnull%5D&referrersIndices=%5Bnull%5D&canonicalHref=https%3A%2F%2Fcloud-preprod.conforama.fr%2Fcanape-salon-sejour%2Fcanape%2Fcanape-cuir%2Fc%2F020114&referrerHref=https%3A%2F%2Fcloud-preprod.conforama.fr%2F
+eventType=activity&nonce=059DF6D2FA628FBF&clicks=0

@@ -1,0 +1,2 @@
+eventType=staticData&nonce=B9BCE7132817171E&timeSincePreviousVisit=0&browser=Firefox&browserIndex=2&browserVersion=120&os=Windows&osIndex=0&windowWidth=1536&windowHeight=731&screenWidth=1536&screenHeight=864&timeZoneId=Europe%2FParis&localeLanguageTag=fr&deviceType=DESKTOP&visitNumber=0&experimentInfluences=%7B%7D&personalizationInfluences=%7B%7D
+eventType=activity&nonce=0B4D040B13A0506B&clicks=0

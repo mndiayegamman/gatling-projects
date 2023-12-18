@@ -1,0 +1,1 @@
+[{"type":0,"ts":11,"x":1536,"y":731},{"type":19,"name":"FCP","val":1728,"ts":23},{"type":19,"name":"FID","val":20,"ts":23},{"type":19,"name":"INP","val":27,"ts":24},{"type":19,"name":"TTFB","val":1507,"ts":24}]

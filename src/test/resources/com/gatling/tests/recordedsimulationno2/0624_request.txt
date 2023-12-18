@@ -1,0 +1,1 @@
+{"typ":"home","req":"XQfHoeMca5OfZvKeJQ5rf","ver":"165","wsd":null,"host":"cloud-preprod.conforama.fr","url":"/","device":"desktop","os":"windows","browser":"firefox","vis":"2aC3PUuQlEgU2h5L0Z9cD","alias":"","slots":[{"id":"slider","max":10,"fill":0},{"id":"ban-970x90","max":1,"fill":0}],"srv":true}

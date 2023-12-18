@@ -1,0 +1,1 @@
+eventType=activity&nonce=91FEC61D7E1ED15A&clicks=0
